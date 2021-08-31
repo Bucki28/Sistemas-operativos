@@ -1,3 +1,3 @@
 # Sistemas-operativos
 Pagina web sobre con información acerca de los sistemas operativos,proyecto grupal
-![image](https://user-images.githubusercontent.com/89820344/131430252-ffaf351e-70c0-4a3b-86fa-bd677eea93b6.png)
+![image](https://user-images.githubusercontent.com/89820344/131430315-ee84208e-a940-4a05-a10a-813bde63696e.png)
